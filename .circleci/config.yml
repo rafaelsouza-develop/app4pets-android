@@ -24,5 +24,3 @@ jobs:
       - run:
           name: Build Project
           command: ./gradlew build
-
-      - run: gradle test
