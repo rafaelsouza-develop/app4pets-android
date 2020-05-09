@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App 4 Pets</string>
+    <string name="title_activity_core">CoreActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_button_enter">ENTRAR</string>
+    <string name="text_button_create_account">Criar conta</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="label_create_account">Criar conta</string>
+</resources>
